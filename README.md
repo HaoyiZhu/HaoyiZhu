@@ -1,18 +1,32 @@
-### Hi there 👋
+### <div align="left">👋 I'm Haoyi Zhu, an undergraduate majoring in AI at Shanghai Jiao Tong University.</div>  
 
-![Visitor Count](https://profile-counter.glitch.me/HaoyiZhu/count.svg)
+<br/>  
 
-<!--
-**HaoyiZhu/HaoyiZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=HaoyiZhu&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoyiZhu&show_icons=true&count_private=true&layout=compact&hide_border=true" align="center" />
+</div>  
 
-Here are some ideas to get you started:
+<br/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
+ 
+<div align="left">
+<a href="https://github.com/HaoyiZhu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/HaoyiZhu" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:hyizhu1108@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail  style="margin-bottom: 5px;" />
+</a>  
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=pD1NOyUAAAAJ" target="_blank">
+<img src=https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white alt=googlescholar  style="margin-bottom: 5px;" />
+</a>  
+<a href="https://github.com/HaoyiZhu" target="_blank">
+<img src="https://komarev.com/ghpvc/?username=HaoyiZhu&&style=for-the-badge" alt=profileviews  style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+</br>

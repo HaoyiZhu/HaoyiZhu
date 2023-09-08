@@ -1,4 +1,4 @@
-### <div align="left">👋 I'm Haoyi Zhu, a 1st-year Ph.D. candidate majoring in AI at Shanghai AI Lab & USTC.</div>  
+### <div align="left">👋 I'm Haoyi Zhu, a 1st-year Ph.D. student majoring in AI at Shanghai AI Lab & USTC.</div>  
 
 <br/>  
 

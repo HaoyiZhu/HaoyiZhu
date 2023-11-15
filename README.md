@@ -1,5 +1,7 @@
 ### <div align="left">👋 I'm Haoyi Zhu, a 1st-year Ph.D. student majoring in AI at Shanghai AI Lab & USTC.</div>  
 
+*"The philosophers have only interpreted the world, in various ways. The point, however, is to change it."*
+
 <br/>  
 
 <div align="left">

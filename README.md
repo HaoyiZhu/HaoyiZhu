@@ -1,6 +1,8 @@
 ### :relaxed: I'm Haoyi Zhu, a 1st-year Ph.D. student majoring in AI at Shanghai AI Lab & USTC.  
 
-#### :heart_eyes: Research Interests: Robotic Manipulation, Embodied AI, and 3D Vision.
+#### Research for fun and truth. :heart_eyes: Interests: Robotic Manipulation, Embodied AI, and 3D Vision.
+
+
 
 *"The philosophers have only interpreted the world, in various ways. The point, however, is to change it."*
 

@@ -39,12 +39,13 @@
 
 **Pinned (Embodied AI)**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenRobotLab&repo=Aether&description_lines_count=2)](https://github.com/OpenRobotLab/Aether)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=SPA&description_lines_count=2)](https://github.com/HaoyiZhu/SPA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=PointCloudMatters&description_lines_count=2)](https://github.com/HaoyiZhu/PointCloudMatters)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MineDojo&repo=MineDojo&show_owner=true&description_lines_count=2)](https://github.com/MineDojo/MineDojo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MineDojo&repo=MineCLIP&show_owner=true&description_lines_count=2)](https://github.com/MineDojo/MineCLIP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rh20t&repo=rh20t_api&show_owner=true&description_lines_count=2)](https://github.com/rh20t/rh20t_api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=RealRobot&description_lines_count=2)](https://github.com/HaoyiZhu/RealRobot)
+
 
 **Pinned (Computer Vision)**
 

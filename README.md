@@ -37,21 +37,23 @@
 
 </br>
 
-**Pinned (Embodied AI)**
+**Pinned (World Model)**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenRobotLab&repo=Aether&description_lines_count=2)](https://github.com/OpenRobotLab/Aether)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SOTAMak1r&repo=DeepVerse&show_owner=true&description_lines_count=2)](https://github.com/SOTAMak1r/DeepVerse)
+
+**Pinned (Embodied AI)**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxiao0406&repo=VQ-VLA&show_owner=true&description_lines_count=2)](https://github.com/xiaoxiao0406/VQ-VLA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=SPA&description_lines_count=2)](https://github.com/HaoyiZhu/SPA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=PointCloudMatters&description_lines_count=2)](https://github.com/HaoyiZhu/PointCloudMatters)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SOTAMak1r&repo=DeepVerse&show_owner=true&description_lines_count=2)](https://github.com/SOTAMak1r/DeepVerse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MineDojo&repo=MineDojo&show_owner=true&description_lines_count=2)](https://github.com/MineDojo/MineDojo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rh20t&repo=rh20t_api&show_owner=true&description_lines_count=2)](https://github.com/rh20t/rh20t_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MineDojo&repo=MineDojo&show_owner=true&description_lines_count=2)](https://github.com/MineDojo/MineDojo)
 
 
 **Pinned (Computer Vision)**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenGVLab&repo=PonderV2&show_owner=true&description_lines_count=2)](https://github.com/OpenGVLab/PonderV2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MVIG-SJTU&repo=AlphaPose&show_owner=true&description_lines_count=2)](https://github.com/MVIG-SJTU/AlphaPose)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nightmare-n&repo=UniPAD&show_owner=true&description_lines_count=2)](https://github.com/Nightmare-n/UniPAD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pointcept&repo=Pointcept&show_owner=true&description_lines_count=2)](https://github.com/Pointcept/Pointcept)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=XNeRF&description_lines_count=2)](https://github.com/HaoyiZhu/XNeRF)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fang-Haoshu&repo=Halpe-FullBody&show_owner=true&description_lines_count=2)](https://github.com/Fang-Haoshu/Halpe-FullBody)

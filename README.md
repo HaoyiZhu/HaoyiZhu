@@ -53,7 +53,7 @@
 
 **Pinned (Computer Vision)**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yyfz&repo=Pi3&show_owner=true&description_lines_count=2)](https://github.com/yyfz/Pi3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenGVLab&repo=PonderV2&show_owner=true&description_lines_count=2)](https://github.com/OpenGVLab/PonderV2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MVIG-SJTU&repo=AlphaPose&show_owner=true&description_lines_count=2)](https://github.com/MVIG-SJTU/AlphaPose)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pointcept&repo=Pointcept&show_owner=true&description_lines_count=2)](https://github.com/Pointcept/Pointcept)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=XNeRF&description_lines_count=2)](https://github.com/HaoyiZhu/XNeRF)

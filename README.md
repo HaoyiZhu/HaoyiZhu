@@ -39,7 +39,7 @@
 
 **Pinned (World Model)**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenRobotLab&repo=Aether&description_lines_count=2)](https://github.com/OpenRobotLab/Aether)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InternRobotics&repo=Aether&description_lines_count=2)](https://github.com/OpenRobotLab/Aether)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SOTAMak1r&repo=DeepVerse&show_owner=true&description_lines_count=2)](https://github.com/SOTAMak1r/DeepVerse)
 
 **Pinned (Embodied AI)**

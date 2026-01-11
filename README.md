@@ -1,4 +1,4 @@
-### :relaxed: I'm Haoyi Zhu, a 3rd-year Ph.D. student majoring in AI at Shanghai AI Lab & USTC.  
+### :relaxed: I'm Haoyi Zhu, a 3rd-year Ph.D. student majoring in AI at USTC.  
 
 #### Research for fun and truth. :heart_eyes: Interests: Robot Learning, Embodied AI, and Computer Vision.
 

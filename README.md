@@ -2,21 +2,10 @@
 
 #### Research for fun and truth. :heart_eyes: Interests: Robot Learning, Embodied AI, and Computer Vision.
 
-
-
-*"The philosophers have only interpreted the world, in various ways. The point, however, is to change it."*
+*"The philosophers have only interpreted the world, in various ways. The point, however, is to change it."*
 
 <br/>  
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HaoyiZhu&show_icons=true&count_private=true&hide_border=true&show=prs_merged&rank_icon=github" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoyiZhu&show_icons=true&count_private=true&layout=donut&hide_border=true" align="center" />
-</div>  
-
-<br/>  
-
-<br/>  
- 
 <div align="left">
 <a href="https://github.com/HaoyiZhu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -35,25 +24,96 @@
 </a>  
 </div>  
 
-</br>
+---
 
-**Pinned (World Model)**
+## 📊 Research & Dev Statistics
+<p align="center">
+  <img width="100%" src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/header-stats.svg" />
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InternRobotics&repo=Aether&description_lines_count=2)](https://github.com/OpenRobotLab/Aether)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SOTAMak1r&repo=DeepVerse&show_owner=true&description_lines_count=2)](https://github.com/SOTAMak1r/DeepVerse)
+---
 
-**Pinned (Embodied AI)**
+## 🌍 World Model (Pinned)
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/OpenRobotLab/Aether">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-aether.svg" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/SOTAMak1r/DeepVerse">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-deepverse.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxiao0406&repo=VQ-VLA&show_owner=true&description_lines_count=2)](https://github.com/xiaoxiao0406/VQ-VLA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=SPA&description_lines_count=2)](https://github.com/HaoyiZhu/SPA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=PointCloudMatters&description_lines_count=2)](https://github.com/HaoyiZhu/PointCloudMatters)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rh20t&repo=rh20t_api&show_owner=true&description_lines_count=2)](https://github.com/rh20t/rh20t_api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MineDojo&repo=MineDojo&show_owner=true&description_lines_count=2)](https://github.com/MineDojo/MineDojo)
+## 🤖 Embodied AI (Pinned)
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/xiaoxiao0406/VQ-VLA">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-vqvla.svg" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HaoyiZhu/SPA">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-spa.svg" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/HaoyiZhu/PointCloudMatters">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-pcm.svg" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/rh20t/rh20t_api">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-rh20t.svg" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MineDojo/MineDojo">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-minedojo.svg" />
+      </a>
+    </td>
+    <td width="50%"></td> </tr>
+</table>
 
+## 👁️ Computer Vision (Pinned)
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/yyfz/Pi3">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-pi3.svg" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/OpenGVLab/PonderV2">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-ponderv2.svg" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MVIG-SJTU/AlphaPose">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-alphapose.svg" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/HaoyiZhu/XNeRF">
+        <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/repo-xnerf.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Pinned (Computer Vision)**
+<br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yyfz&repo=Pi3&show_owner=true&description_lines_count=2)](https://github.com/yyfz/Pi3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenGVLab&repo=PonderV2&show_owner=true&description_lines_count=2)](https://github.com/OpenGVLab/PonderV2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MVIG-SJTU&repo=AlphaPose&show_owner=true&description_lines_count=2)](https://github.com/MVIG-SJTU/AlphaPose)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaoyiZhu&repo=XNeRF&description_lines_count=2)](https://github.com/HaoyiZhu/XNeRF)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaoyiZhu&show_icons=true&count_private=true&hide_border=true&show=prs_merged&rank_icon=github" />
+</div>

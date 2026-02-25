@@ -8,29 +8,36 @@
 
 <div align="left">
 <a href="https://github.com/HaoyiZhu" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <a href="https://twitter.com/HaoyiZhu" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
 </a>  
 <a href="mailto:hyizhu1108@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>  
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=pD1NOyUAAAAJ" target="_blank">
-<img src="https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="googlescholar"  style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="googlescholar" />
 </a>  
 <a href="https://github.com/HaoyiZhu" target="_blank">
-<img src="https://komarev.com/ghpvc/?username=HaoyiZhu&&style=for-the-badge" alt="profileviews"  style="margin-bottom: 5px;" />
+<img src="https://komarev.com/ghpvc/?username=HaoyiZhu&&style=for-the-badge" alt="profileviews" />
 </a>  
 </div>  
 
 ---
 
 ## 📊 Research & Dev Statistics
-<p align="center">
-  <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/header-left.svg" width="49%" style="vertical-align: top;" />
-  <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/header-right.svg" width="49%" style="vertical-align: top;" />
-</p>
+
+<table border="0">
+  <tr style="border: 0;">
+    <td width="49%" valign="top" style="border: 0;">
+      <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/header-left.svg" width="100%" />
+    </td>
+    <td width="49%" valign="top" style="border: 0;">
+      <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/header-right.svg" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 

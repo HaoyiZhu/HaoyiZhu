@@ -28,8 +28,8 @@
 
 ## 📊 Research & Dev Statistics
 <p align="center">
-  <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/header-left.svg" width="49%" />
-  <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/header-right.svg" width="49%" />
+  <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/header-left.svg" width="49%" style="vertical-align: top;" />
+  <img src="https://github.com/HaoyiZhu/HaoyiZhu/blob/main/header-right.svg" width="49%" style="vertical-align: top;" />
 </p>
 
 ---

@@ -1,0 +1,63 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 */12 * * *"}] # 每12小时自动更新
+  workflow_dispatch: # 支持手动触发
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 基础统计：Google Scholar + 语言占比 + 活跃曲线
+      - name: General Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: header-stats.svg
+          base: header, activity, community
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_scholar: yes
+          plugin_scholar_userid: pD1NOyUAAAAJ
+          plugin_scholar_link: yes
+
+      # 2. 循环生成所有 Repo 卡片
+      # World Model
+      - name: Repo - Aether
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-aether.svg, template: repository, user: OpenRobotLab, repo: Aether}
+      - name: Repo - DeepVerse
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-deepverse.svg, template: repository, user: SOTAMak1r, repo: DeepVerse}
+
+      # Embodied AI
+      - name: Repo - VQ-VLA
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-vqvla.svg, template: repository, user: xiaoxiao0406, repo: VQ-VLA}
+      - name: Repo - SPA
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-spa.svg, template: repository, user: HaoyiZhu, repo: SPA}
+      - name: Repo - PointCloudMatters
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-pcm.svg, template: repository, user: HaoyiZhu, repo: PointCloudMatters}
+      - name: Repo - rh20t_api
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-rh20t.svg, template: repository, user: rh20t, repo: rh20t_api}
+      - name: Repo - MineDojo
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-minedojo.svg, template: repository, user: MineDojo, repo: MineDojo}
+
+      # Computer Vision
+      - name: Repo - Pi3
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-pi3.svg, template: repository, user: yyfz, repo: Pi3}
+      - name: Repo - PonderV2
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-ponderv2.svg, template: repository, user: OpenGVLab, repo: PonderV2}
+      - name: Repo - AlphaPose
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-alphapose.svg, template: repository, user: MVIG-SJTU, repo: AlphaPose}
+      - name: Repo - XNeRF
+        uses: lowlighter/metrics@latest
+        with: {token: ${{ secrets.METRICS_TOKEN }}, filename: repo-xnerf.svg, template: repository, user: HaoyiZhu, repo: XNeRF}

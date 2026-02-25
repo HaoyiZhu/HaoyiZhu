@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-# 1. Header 左侧：增加成就插件，让内容变丰富
+      # 1. Header 左侧：增加成就插件，让内容变丰富
       - name: Header Left - Scholar & Languages
         uses: lowlighter/metrics@latest
         with:

@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # 1. Header 左侧：Google Scholar + 语言占比
+# 1. Header 左侧：增加成就插件，让内容变丰富
       - name: Header Left - Scholar & Languages
         uses: lowlighter/metrics@latest
         with:
@@ -17,12 +17,12 @@ jobs:
           base: ""
           plugin_scholar: yes
           plugin_scholar_userid: pD1NOyUAAAAJ
-          plugin_scholar_link: yes
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
+          plugin_achievements: yes # 增加成就奖章，填补垂直空间
+          plugin_achievements_display: compact
 
-      # 2. Header 右侧：3D 活跃曲线 + 个人基础信息
+      # 2. Header 右侧：减小 calendar 的缩放
       - name: Header Right - Activity & Calendar
         uses: lowlighter/metrics@latest
         with:
@@ -31,6 +31,7 @@ jobs:
           base: header, activity
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          config_padding: 0, 0, 0, 0 # 确保右侧没有额外间距
 
       # 3. 循环生成 Repo 卡片
       - name: Repo - Aether

@@ -36,81 +36,121 @@ jobs:
       # 3. 循环生成 Repo 卡片
       - name: Repo - Aether
         uses: lowlighter/metrics@latest
+        continue-on-error: true # 失败不阻断后续执行
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-aether.svg
           template: repository
-          user: OpenRobotLab  # 强制指定仓库所属账号
+          user: InternRobotics  # 使用原卡片中的有效 ID
           repo: Aether
+          base: ""              # 核心修正：禁止抓取 User 活跃度
 
       - name: Repo - DeepVerse
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-deepverse.svg
           template: repository
-          user: SOTAMak1r    # 强制指定仓库所属账号
+          user: SOTAMak1r
           repo: DeepVerse
+          base: ""
 
       - name: Repo - VQ-VLA
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-vqvla.svg
           template: repository
           user: xiaoxiao0406
           repo: VQ-VLA
+          base: ""
+
+      - name: Repo - SPA
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: repo-spa.svg
+          template: repository
+          user: HaoyiZhu
+          repo: SPA
+          base: ""
+
+      - name: Repo - PointCloudMatters
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: repo-pcm.svg
+          template: repository
+          user: HaoyiZhu
+          repo: PointCloudMatters
+          base: ""
 
       - name: Repo - rh20t_api
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-rh20t.svg
           template: repository
           user: rh20t
           repo: rh20t_api
+          base: ""
 
       - name: Repo - MineDojo
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-minedojo.svg
           template: repository
           user: MineDojo
           repo: MineDojo
+          base: ""
 
       - name: Repo - Pi3
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-pi3.svg
           template: repository
           user: yyfz
           repo: Pi3
+          base: ""
 
       - name: Repo - PonderV2
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-ponderv2.svg
           template: repository
           user: OpenGVLab
           repo: PonderV2
+          base: ""
 
       - name: Repo - AlphaPose
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-alphapose.svg
           template: repository
           user: MVIG-SJTU
           repo: AlphaPose
+          base: ""
 
       - name: Repo - XNeRF
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-xnerf.svg
           template: repository
           user: HaoyiZhu
           repo: XNeRF
+          base: ""

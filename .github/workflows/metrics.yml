@@ -40,8 +40,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-aether.svg
           template: repository
+          user: OpenRobotLab  # 强制指定仓库所属账号
           repo: Aether
-          repo_user: OpenRobotLab  # 修正：从 user 改为 repo_user
 
       - name: Repo - DeepVerse
         uses: lowlighter/metrics@latest
@@ -49,8 +49,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-deepverse.svg
           template: repository
+          user: SOTAMak1r    # 强制指定仓库所属账号
           repo: DeepVerse
-          repo_user: SOTAMak1r    # 修正：从 user 改为 repo_user
 
       - name: Repo - VQ-VLA
         uses: lowlighter/metrics@latest
@@ -58,26 +58,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-vqvla.svg
           template: repository
+          user: xiaoxiao0406
           repo: VQ-VLA
-          repo_user: xiaoxiao0406 # 修正：从 user 改为 repo_user
-
-      - name: Repo - SPA
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: repo-spa.svg
-          template: repository
-          user: HaoyiZhu
-          repo: SPA
-
-      - name: Repo - PointCloudMatters
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: repo-pcm.svg
-          template: repository
-          user: HaoyiZhu
-          repo: PointCloudMatters
 
       - name: Repo - rh20t_api
         uses: lowlighter/metrics@latest
@@ -85,8 +67,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-rh20t.svg
           template: repository
+          user: rh20t
           repo: rh20t_api
-          repo_user: rh20t        # 修正：从 user 改为 repo_user
 
       - name: Repo - MineDojo
         uses: lowlighter/metrics@latest
@@ -94,8 +76,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-minedojo.svg
           template: repository
+          user: MineDojo
           repo: MineDojo
-          repo_user: MineDojo     # 修正：从 user 改为 repo_user
 
       - name: Repo - Pi3
         uses: lowlighter/metrics@latest
@@ -103,8 +85,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-pi3.svg
           template: repository
+          user: yyfz
           repo: Pi3
-          repo_user: yyfz           # 修正：从 user 改为 repo_user
 
       - name: Repo - PonderV2
         uses: lowlighter/metrics@latest
@@ -112,8 +94,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-ponderv2.svg
           template: repository
+          user: OpenGVLab
           repo: PonderV2
-          repo_user: OpenGVLab     # 修正：从 user 改为 repo_user
 
       - name: Repo - AlphaPose
         uses: lowlighter/metrics@latest
@@ -121,8 +103,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: repo-alphapose.svg
           template: repository
+          user: MVIG-SJTU
           repo: AlphaPose
-          repo_user: MVIG-SJTU     # 修正：从 user 改为 repo_user
 
       - name: Repo - XNeRF
         uses: lowlighter/metrics@latest

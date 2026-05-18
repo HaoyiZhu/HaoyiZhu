@@ -40,9 +40,9 @@
 <div align="left">
   <a href="https://github.com/NVlabs/Sana">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=NVlabs&repo=Sana&show_owner=true&description_lines_count=2&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=NVlabs&repo=Sana&show_owner=true&description_lines_count=2">
-      <img src="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=NVlabs&repo=Sana&show_owner=true&description_lines_count=2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=NVlabs&repo=Sana&show_owner=true&description_lines_count=2&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=NVlabs&repo=Sana&show_owner=true&description_lines_count=2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NVlabs&repo=Sana&show_owner=true&description_lines_count=2">
     </picture>
   </a>
   <a href="https://github.com/InternRobotics/Aether">

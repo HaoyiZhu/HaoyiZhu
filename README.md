@@ -38,11 +38,25 @@
 ## 🌍 World Model (Pinned)
 
 <div align="left">
-  <a href="https://github.com/OpenRobotLab/Aether">
+  <a href="https://github.com/NVlabs/Sana">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=NVlabs&repo=Sana&show_owner=true&description_lines_count=2&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=NVlabs&repo=Sana&show_owner=true&description_lines_count=2">
+      <img src="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=NVlabs&repo=Sana&show_owner=true&description_lines_count=2">
+    </picture>
+  </a>
+  <a href="https://github.com/InternRobotics/Aether">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=InternRobotics&repo=Aether&show_owner=true&description_lines_count=2&theme=github_dark">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=InternRobotics&repo=Aether&show_owner=true&description_lines_count=2">
       <img src="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=InternRobotics&repo=Aether&show_owner=true&description_lines_count=2">
+    </picture>
+  </a>
+  <a href="https://github.com/yangzhou24/OmniWorld">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=yangzhou24&repo=OmniWorld&show_owner=true&description_lines_count=2&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=yangzhou24&repo=OmniWorld&show_owner=true&description_lines_count=2">
+      <img src="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=yangzhou24&repo=OmniWorld&show_owner=true&description_lines_count=2">
     </picture>
   </a>
   <a href="https://github.com/SOTAMak1r/DeepVerse">
@@ -69,13 +83,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=HaoyiZhu&repo=SPA&description_lines_count=2&theme=github_dark">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=HaoyiZhu&repo=SPA&description_lines_count=2">
       <img src="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=HaoyiZhu&repo=SPA&description_lines_count=2">
-    </picture>
-  </a>
-  <a href="https://github.com/HaoyiZhu/PointCloudMatters">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=HaoyiZhu&repo=PointCloudMatters&description_lines_count=2&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=HaoyiZhu&repo=PointCloudMatters&description_lines_count=2">
-      <img src="https://github-readme-stats-eta-gray-knotuthonr.vercel.app/api/pin/?username=HaoyiZhu&repo=PointCloudMatters&description_lines_count=2">
     </picture>
   </a>
   <a href="https://github.com/rh20t/rh20t_api">

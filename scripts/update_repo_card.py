@@ -82,11 +82,11 @@ def render(data: dict) -> str:
     .icon {{ fill: #586069; }}
     @supports(-moz-appearance: auto) {{ .header {{ font-size: 15.5px; }} }}
     @media (prefers-color-scheme: dark) {{
-      .bg {{ fill: #151515; stroke: #e4e2e2; }}
-      .header {{ fill: #fff; }}
-      .description {{ fill: #9f9f9f; }}
-      .gray {{ fill: #9f9f9f; }}
-      .icon {{ fill: #79ff97; }}
+      .bg {{ fill: #0D1117; stroke: #e4e2e2; }}
+      .header {{ fill: #58A6FF; }}
+      .description {{ fill: #C3D1D9; }}
+      .gray {{ fill: #C3D1D9; }}
+      .icon {{ fill: #1F6FEB; }}
     }}
   </style>
   <rect class="bg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" width="399" stroke-opacity="1"/>

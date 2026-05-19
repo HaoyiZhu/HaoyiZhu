@@ -1,0 +1,33 @@
+name: Update Pin Cards
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  update-sana:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Regenerate repo-sana.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_repo_card.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add repo-sana.svg
+          if git diff --staged --quiet; then
+            echo "repo-sana.svg unchanged."
+          else
+            git commit -m "Update repo-sana.svg - [Skip GitHub Action]"
+            git push
+          fi
